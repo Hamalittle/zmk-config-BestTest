@@ -1,4 +1,4 @@
 if SHIELD_BESTTEST
     config ZMK_KEYBOARD_NAME
-        default "BestTest"
+        default "besttest"
 endif
